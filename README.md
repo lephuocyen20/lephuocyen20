@@ -1,8 +1,8 @@
-Hi guys, I'm Le Phuoc Yen
-A data engineer from Ho Chi Minh city
-🌱 I’m currently learning Data Engineer in HCMUTE University
+# Hi guys, I'm Le Phuoc Yen
 
-📫 Contact with me: lephuocyen20@gmail.com
+I'm learning Data Engineer in HCMUTE University
+
+Contact with me: lephuocyen20@gmail.com
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/zadendenday.203) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ph%C6%B0%E1%BB%9Bc-y%C3%AAn-l%C3%AA-958837272/) 
 
